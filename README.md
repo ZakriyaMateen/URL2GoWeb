@@ -1,16 +1,6 @@
 # url2goweb
 
-A new Flutter project.
+URL2Go is a Web Application that allows users to create accounts in a specific organization created and approved by the admin.
+Users can add and share their urls, chat with other users inside the organization, create branches and much more!
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[https://url2goweb.web.app/]
