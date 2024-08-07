@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832700163605",
+    "project_id": "url2goweb",
+    "storage_bucket": "url2goweb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832700163605:android:f844a008605b0b130f101c",
+        "android_client_info": {
+          "package_name": "com.example.url2goweb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcyYXFBUMQE8TPVp4e-8S8w1oXmDnwuRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
